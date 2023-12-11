@@ -1,5 +1,9 @@
+fork https://github.com/liuqun/njit8021xclient
+
 # h3c-inode
 h3c inode 802.1x
+
+修改N1下编译的错误
 
 cd src
 ls
